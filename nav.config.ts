@@ -48,7 +48,7 @@ const c: IConfig = {
 
   // Sim 主题配置
   simThemeConfig: {
-    // 海报图
+    // 海报图 
     posterImageUrls: [
       'https://raw.sevencdn.com/xjh22222228/nav/image/sim-wallpaper.jpg'
     ],
